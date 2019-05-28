@@ -1,0 +1,8 @@
+/Users/euxcet/Files/tsinghua/大三下/计算机系统结构/homework/Tomasulo算法模拟器实验/tomasulo/build/CMakeFiles/install/local.dir
+/Users/euxcet/Files/tsinghua/大三下/计算机系统结构/homework/Tomasulo算法模拟器实验/tomasulo/build/CMakeFiles/install/strip.dir
+/Users/euxcet/Files/tsinghua/大三下/计算机系统结构/homework/Tomasulo算法模拟器实验/tomasulo/build/CMakeFiles/install.dir
+/Users/euxcet/Files/tsinghua/大三下/计算机系统结构/homework/Tomasulo算法模拟器实验/tomasulo/build/CMakeFiles/rebuild_cache.dir
+/Users/euxcet/Files/tsinghua/大三下/计算机系统结构/homework/Tomasulo算法模拟器实验/tomasulo/build/CMakeFiles/edit_cache.dir
+/Users/euxcet/Files/tsinghua/大三下/计算机系统结构/homework/Tomasulo算法模拟器实验/tomasulo/build/CMakeFiles/tomasulo.dir
+/Users/euxcet/Files/tsinghua/大三下/计算机系统结构/homework/Tomasulo算法模拟器实验/tomasulo/build/CMakeFiles/list_install_components.dir
+/Users/euxcet/Files/tsinghua/大三下/计算机系统结构/homework/Tomasulo算法模拟器实验/tomasulo/build/CMakeFiles/tomasulo_exe.dir

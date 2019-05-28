@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libtomasulo.a  CMakeFiles/tomasulo.dir/src/core/parser.cpp.o CMakeFiles/tomasulo.dir/src/core/tomasulo.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libtomasulo.a
